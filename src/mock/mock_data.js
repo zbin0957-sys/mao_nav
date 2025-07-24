@@ -83,6 +83,13 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
+        },
+        {
+          "id": "site-1753326606994",
+          "name": "AIGC秘塔社区",
+          "url": "https://modelscope.cn/aigc/home",
+          "description": "专注AI图片生成，视频生成，模型训练",
+          "icon": "/sitelogo/modelscope.cn.ico"
         }
       ]
     },
