@@ -71,18 +71,18 @@ export const mockData = {
           "icon": "/sitelogo/claude.ai.ico"
         },
         {
-          "id": "midjourney",
-          "name": "Midjourney",
-          "url": "https://www.midjourney.com",
-          "description": "AI图像生成工具",
-          "icon": "/sitelogo/www.midjourney.com.ico"
-        },
-        {
           "id": "copilot",
           "name": "GitHub Copilot",
           "url": "https://github.com/features/copilot",
           "description": "AI代码助手",
           "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "midjourney",
+          "name": "Midjourney",
+          "url": "https://www.midjourney.com",
+          "description": "AI图像生成工具",
+          "icon": "/sitelogo/www.midjourney.com.ico"
         },
         {
           "id": "cursor",
@@ -111,6 +111,13 @@ export const mockData = {
           "url": "https://playground.bfl.ai/image/edit",
           "description": "无限图片生成",
           "icon": "/sitelogo/playground.bfl.ai.ico"
+        },
+        {
+          "id": "site-1753345149567",
+          "name": "Ai绘画小助手",
+          "url": "https://share.fastgpt.in/chat/share?shareId=zlbbyirumxf8j0rpazajy96s",
+          "description": "AI自动优化生成提示词 后调用FLUX.1或者SD3 AI绘画",
+          "icon": "/sitelogo/share.fastgpt.in.ico"
         }
       ]
     },
@@ -530,6 +537,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "千梦导航",
-  "_fileSha": "8fd50a4599c9854a985065738e6f634a47092be7"
+  "title": "千梦导航"
 }
