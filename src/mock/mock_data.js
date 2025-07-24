@@ -90,6 +90,12 @@ export const mockData = {
           "url": "https://modelscope.cn/aigc/home",
           "description": "专注AI图片生成，视频生成，模型训练",
           "icon": "/sitelogo/modelscope.cn.ico"
+        },
+        {
+          "id": "site-1753327234723",
+          "name": "AI提示词管理平台",
+          "url": "https://prompt.yilanbk.me/",
+          "description": "专注AI提示词的管理平台\n一站式收集、分享和探索AI提示词的专业工具"
         }
       ]
     },
@@ -488,6 +494,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "千梦导航",
-  "_fileSha": "81d4a4515eca254cf9e507cc6b4919a8bbea9f06"
+  "title": "猫猫导航"
 }
