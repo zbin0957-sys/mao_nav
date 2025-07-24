@@ -461,6 +461,20 @@ export const mockData = {
           "url": "https://tinypng.com",
           "description": "图片压缩工具",
           "icon": "/sitelogo/tinypng.com.ico"
+        },
+        {
+          "id": "site-1753349405799",
+          "name": "草料二维码生成器",
+          "url": "https://cli.im/",
+          "description": "在线生成二维码活吗",
+          "icon": "/sitelogo/cli.im.ico"
+        },
+        {
+          "id": "site-1753349456681",
+          "name": "微信公众号",
+          "url": "https://mp.weixin.qq.com/",
+          "description": "为媒体和个人提供一种新的信息传播方式，构建与读者之间更好的沟通与管理模式。",
+          "icon": "/sitelogo/mp.weixin.qq.com.ico"
         }
       ]
     },
