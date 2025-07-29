@@ -289,6 +289,34 @@ export const mockData = {
           "url": "http://www.th-sjy.com/",
           "description": "专注软件汉化和资源分享",
           "icon": "/sitelogo/www.th-sjy.com.ico"
+        },
+        {
+          "id": "site-1753777139746",
+          "name": "Winapps",
+          "url": "https://www.winapps.cc/",
+          "description": "「免费 & 开源」的 Windows 软件",
+          "icon": "/sitelogo/www.winapps.cc.ico"
+        },
+        {
+          "id": "site-1753777227466",
+          "name": "极限软件园",
+          "url": "https://www.jxdown.com/",
+          "description": "软件娱乐行业，力争打造最专业的软件平台",
+          "icon": "/sitelogo/www.jxdown.com.ico"
+        },
+        {
+          "id": "site-1753777354960",
+          "name": "软件库",
+          "url": "https://software-repository.com/",
+          "description": "免费无广win+linux+mac+安卓",
+          "icon": "/sitelogo/software-repository.com.ico"
+        },
+        {
+          "id": "site-1753777443697",
+          "name": "纯净工具站",
+          "url": "https://www.puretool.cn/",
+          "description": "软件纯净，实时更新，下载免费",
+          "icon": "/sitelogo/www.puretool.cn.ico"
         }
       ]
     },
