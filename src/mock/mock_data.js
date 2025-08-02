@@ -553,6 +553,55 @@ export const mockData = {
           "url": "https://www.pbkan.com/",
           "description": "2025年最新电影电视剧排行榜纯净无广",
           "icon": "https://img2.baidu.com/it/u=4210055439,727132613&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500"
+        },
+        {
+          "id": "site-1754126600675",
+          "name": "低端影视",
+          "url": "https://ddys.mov/",
+          "description": "超清在线视频站",
+          "icon": "/sitelogo/ddys.mov.ico"
+        },
+        {
+          "id": "site-1754126668985",
+          "name": "美剧窝",
+          "url": "https://www.mjwo.net/",
+          "description": "更新最新最快的在线美剧剧场",
+          "icon": "/sitelogo/www.mjwo.net.ico"
+        },
+        {
+          "id": "site-1754126768443",
+          "name": "欧乐影视",
+          "url": "https://www.oule.xyz/",
+          "description": "免费观看优质的观影体验",
+          "icon": "/sitelogo/www.oule.xyz.ico"
+        },
+        {
+          "id": "site-1754126902178",
+          "name": "仙女影视",
+          "url": "https://xnys.cc/",
+          "description": "全网免费更新美剧韩剧",
+          "icon": "https://bpic.588ku.com/element_pic/23/04/25/309906e58b73b20ed3a6767ce25fa357.png!/fw/329/quality/90/unsharp/true/compress/true"
+        },
+        {
+          "id": "site-1754126935136",
+          "name": "HD影视",
+          "url": "https://www.hdmoli.pro/",
+          "description": "",
+          "icon": "/sitelogo/www.hdmoli.pro.ico"
+        },
+        {
+          "id": "site-1754126950496",
+          "name": "光影迷",
+          "url": "https://www.guangyingmi.com/",
+          "description": "",
+          "icon": "/sitelogo/www.guangyingmi.com.ico"
+        },
+        {
+          "id": "site-1754126966345",
+          "name": "注视影视",
+          "url": "https://gaze.run/",
+          "description": "",
+          "icon": "/sitelogo/gaze.run.ico"
         }
       ]
     },
