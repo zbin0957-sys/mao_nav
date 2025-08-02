@@ -215,8 +215,8 @@ export const mockData = {
     },
     {
       "id": "entertainment",
-      "name": "娱乐休闲",
-      "icon": "🎮",
+      "name": "在线影视",
+      "icon": "📱",
       "order": 3,
       "sites": [
         {
@@ -397,94 +397,10 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-1754127824973",
-      "icon": "🎵",
-      "name": "音乐下载",
-      "order": 5,
-      "sites": [
-        {
-          "id": "site-1754127889419",
-          "name": "5song无损音乐",
-          "url": "https://www.5song.xyz/",
-          "description": "5song无损音乐下载",
-          "icon": "/sitelogo/www.5song.xyz.ico"
-        },
-        {
-          "id": "site-1754127911403",
-          "name": "音微",
-          "url": "https://www.yinwe.com/",
-          "description": "音微",
-          "icon": "/sitelogo/www.yinwe.com.ico"
-        },
-        {
-          "id": "site-1754127928973",
-          "name": "音乐魔石",
-          "url": "https://yym4.com/",
-          "description": "音乐魔石",
-          "icon": "/sitelogo/yym4.com.ico"
-        },
-        {
-          "id": "site-1754127959632",
-          "name": "凤梨音乐",
-          "url": "https://www.flmp3.pro/",
-          "description": "无损音乐资源的一个音乐分享平台",
-          "icon": "/sitelogo/www.flmp3.pro.ico"
-        },
-        {
-          "id": "site-1754127981216",
-          "name": "音乐榜",
-          "url": "https://www.mp3b.com/",
-          "description": "音乐榜",
-          "icon": "/sitelogo/www.mp3b.com.ico"
-        },
-        {
-          "id": "site-1754128002373",
-          "name": "开开无损音乐",
-          "url": "https://www.kkws.cc/",
-          "description": "开开无损音乐",
-          "icon": "/sitelogo/www.kkws.cc.ico"
-        },
-        {
-          "id": "site-1754128032948",
-          "name": "极光无损音乐",
-          "url": "https://www.jgwav.cc/",
-          "description": "极光无损音乐下载"
-        },
-        {
-          "id": "site-1754128051459",
-          "name": "放屁音乐网",
-          "url": "https://www.fangpi.net/",
-          "description": "放屁音乐网",
-          "icon": "/sitelogo/www.fangpi.net.ico"
-        },
-        {
-          "id": "site-1754128076390",
-          "name": "52音乐",
-          "url": "http://www.52wusun.com/",
-          "description": "52音乐",
-          "icon": "/sitelogo/www.52wusun.com.ico"
-        },
-        {
-          "id": "site-1754128102567",
-          "name": "ACG音乐",
-          "url": "https://www.acgjc.com/",
-          "description": "ACG音乐",
-          "icon": "/sitelogo/www.acgjc.com.ico"
-        },
-        {
-          "id": "site-1754128133422",
-          "name": "23ape音乐",
-          "url": "http://www.23ape.net/",
-          "description": "23ape音乐",
-          "icon": "/sitelogo/www.23ape.net.ico"
-        }
-      ]
-    },
-    {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 6,
+      "order": 5,
       "sites": [
         {
           "id": "cloudflare",
@@ -541,7 +457,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 7,
+      "order": 6,
       "sites": [
         {
           "id": "github",
@@ -591,7 +507,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 8,
+      "order": 7,
       "sites": [
         {
           "id": "json-formatter",
@@ -641,7 +557,7 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 9,
+      "order": 8,
       "sites": [
         {
           "id": "figma",
@@ -677,7 +593,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 10,
+      "order": 9,
       "sites": [
         {
           "id": "binance",
@@ -741,7 +657,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 11,
+      "order": 10,
       "sites": [
         {
           "id": "mdn",
@@ -777,7 +693,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 12,
+      "order": 11,
       "sites": [
         {
           "id": "notion",
