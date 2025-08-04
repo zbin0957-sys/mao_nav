@@ -481,10 +481,107 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1754304405366",
+      "icon": "📚",
+      "name": "书海畅游",
+      "order": 6,
+      "sites": [
+        {
+          "id": "site-1754304520462",
+          "name": "爱久久小说",
+          "url": "https://www.jjjxsw.com/",
+          "description": "本站提供的穿越小说,玄幻小说,言情小说,现代都市,武侠仙侠,网游言情等电子书txt小说下载所含内容的版权均为原作者所有",
+          "icon": "/sitelogo/www.jjjxsw.com.ico"
+        },
+        {
+          "id": "site-1754304549218",
+          "name": "爱悦读",
+          "url": "https://www.iyd.wang/",
+          "description": "爱悦读网，提供epub、mobi、azw3、pdf、txt等格式电子书、多看电子书、kindle电子书等多种格式电子书免费下载。",
+          "icon": "/sitelogo/www.iyd.wang.ico"
+        },
+        {
+          "id": "site-1754304575058",
+          "name": "八零电子书",
+          "url": "https://txt80.cc/",
+          "description": "八零电子书：为您提供穿越小说,耽美小说,都市小说,言情小说,玄幻小说，无弹窗小说网。",
+          "icon": "/sitelogo/txt80.cc.ico"
+        },
+        {
+          "id": "site-1754304607837",
+          "name": "电子课本网",
+          "url": "http://www.dzkbw.com/",
+          "description": "电子课本网提供在线电子课本导航服务，涵盖小学、初中和高中电子教科书，包括语文、数学、英语、物理、化学、生物、历史、地理及政治等新版本电子教材导航",
+          "icon": "/sitelogo/www.dzkbw.com.ico"
+        },
+        {
+          "id": "site-1754304629159",
+          "name": "读书派",
+          "url": "https://www.dushupai.com/",
+          "description": "读书派：EPUB电子书,AZW3电子书,MOBI电子书,PDF电子书,KINDLE电子书,免费好用的电子书下载网站",
+          "icon": "/sitelogo/www.dushupai.com.ico"
+        },
+        {
+          "id": "site-1754304663524",
+          "name": "知识库",
+          "url": "https://www.zhishikoo.com/",
+          "description": "书籍知识库网站是一个书籍、电子书分享的资源网站，找书籍、电子书上书籍知识库",
+          "icon": "/sitelogo/www.zhishikoo.com.ico"
+        },
+        {
+          "id": "site-1754304741819",
+          "name": "mobi图书网",
+          "url": "https://mobitushu.cn/",
+          "description": "mobi图书网免费分享资源，mobi格式 、PDF格式 、azw3格式",
+          "icon": "/sitelogo/mobitushu.cn.ico"
+        },
+        {
+          "id": "site-1754304786785",
+          "name": "nmod电子书",
+          "url": "https://www.nmod.net/",
+          "description": "优质电子书下载",
+          "icon": "/sitelogo/www.nmod.net.ico"
+        },
+        {
+          "id": "site-1754304831007",
+          "name": "24搜书",
+          "url": "https://24hbook.daohangxie.com/?cache_bust=1754304473900",
+          "description": "24搜书提供免费的搜书下载"
+        },
+        {
+          "id": "site-1754304871214",
+          "name": "书海旅人",
+          "url": "https://bookplusapp.top/",
+          "description": "高质量电子书合集，一次下载，永久使用。",
+          "icon": "/sitelogo/bookplusapp.top.ico"
+        },
+        {
+          "id": "site-1754304909910",
+          "name": "知轩藏书",
+          "url": "https://www.zxcs.info/",
+          "description": "知轩藏书是一个txt小说下载站",
+          "icon": "/sitelogo/www.zxcs.info.ico"
+        },
+        {
+          "id": "site-1754304938810",
+          "name": "万本小说",
+          "url": "https://www.10000txt.com/",
+          "description": "万本小说是一个给网友提供全本txt小说下载、完结txt小说下载、完本txt小说下载的网站。",
+          "icon": "/sitelogo/www.10000txt.com.ico"
+        },
+        {
+          "id": "site-1754305034817",
+          "name": "读书阁",
+          "url": "https://duzhege.cn/",
+          "description": "读书阁是分享国内名人轶事，读者故事"
+        }
+      ]
+    },
+    {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "cloudflare",
@@ -541,7 +638,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "github",
@@ -591,7 +688,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 8,
+      "order": 9,
       "sites": [
         {
           "id": "json-formatter",
@@ -641,7 +738,7 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 9,
+      "order": 10,
       "sites": [
         {
           "id": "figma",
@@ -677,7 +774,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 10,
+      "order": 11,
       "sites": [
         {
           "id": "binance",
@@ -741,7 +838,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 11,
+      "order": 12,
       "sites": [
         {
           "id": "mdn",
@@ -777,7 +874,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 12,
+      "order": 13,
       "sites": [
         {
           "id": "notion",
