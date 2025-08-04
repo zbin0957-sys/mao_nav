@@ -397,10 +397,94 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1754303733873",
+      "icon": "🎵",
+      "name": "在线音乐下载",
+      "order": 5,
+      "sites": [
+        {
+          "id": "site-1754303870425",
+          "name": "5song无损音乐在线下载",
+          "url": "https://www.5song.xyz/",
+          "description": "5song无损音乐在线下载",
+          "icon": "/sitelogo/www.5song.xyz.ico"
+        },
+        {
+          "id": "site-1754303937209",
+          "name": "音微网",
+          "url": "https://www.yinwe.com/",
+          "description": "音微网根据歌名找歌词",
+          "icon": "/sitelogo/www.yinwe.com.ico"
+        },
+        {
+          "id": "site-1754303970190",
+          "name": "音乐魔石",
+          "url": "https://yym4.com/",
+          "description": "音乐魔石提供全网无损音乐下载",
+          "icon": "/sitelogo/yym4.com.ico"
+        },
+        {
+          "id": "site-1754303994866",
+          "name": "凤梨音乐",
+          "url": "https://www.flmp3.pro/",
+          "description": "凤梨音乐网为广大音乐爱好者提供高音质无损音乐资源",
+          "icon": "/sitelogo/www.flmp3.pro.ico"
+        },
+        {
+          "id": "site-1754304037156",
+          "name": "音乐榜",
+          "url": "https://www.mp3b.com/",
+          "description": "音乐榜-在线音乐搜索",
+          "icon": "/sitelogo/www.mp3b.com.ico"
+        },
+        {
+          "id": "site-1754304073431",
+          "name": "开开无损音乐",
+          "url": "https://www.kkws.cc/",
+          "description": "开开无损音乐是一个免费的无损音乐下载站",
+          "icon": "/sitelogo/www.kkws.cc.ico"
+        },
+        {
+          "id": "site-1754304114390",
+          "name": "极光无损",
+          "url": "https://www.jgwav.cc/",
+          "description": "极光无损音乐是一个无损音乐下载"
+        },
+        {
+          "id": "site-1754304150161",
+          "name": "放屁音乐网",
+          "url": "https://www.fangpi.net/",
+          "description": "放屁音乐网在线搜索音乐在线播放",
+          "icon": "/sitelogo/www.fangpi.net.ico"
+        },
+        {
+          "id": "site-1754304199737",
+          "name": "我爱无损音乐",
+          "url": "http://www.52wusun.com/",
+          "description": "高质量音乐，mp3，无损音乐",
+          "icon": "/sitelogo/www.52wusun.com.ico"
+        },
+        {
+          "id": "site-1754304243537",
+          "name": "ACG漫音社",
+          "url": "https://www.acgjc.com/",
+          "description": "ACG漫音社国内最新的漫音网站",
+          "icon": "/sitelogo/www.acgjc.com.ico"
+        },
+        {
+          "id": "site-1754304283151",
+          "name": "23ape",
+          "url": "http://www.23ape.net/",
+          "description": "APE,FLAC音乐下载",
+          "icon": "/sitelogo/www.23ape.net.ico"
+        }
+      ]
+    },
+    {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "cloudflare",
@@ -457,7 +541,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "github",
@@ -507,7 +591,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "json-formatter",
@@ -557,7 +641,7 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 8,
+      "order": 9,
       "sites": [
         {
           "id": "figma",
@@ -593,7 +677,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 9,
+      "order": 10,
       "sites": [
         {
           "id": "binance",
@@ -657,7 +741,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 10,
+      "order": 11,
       "sites": [
         {
           "id": "mdn",
@@ -693,7 +777,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 11,
+      "order": 12,
       "sites": [
         {
           "id": "notion",
